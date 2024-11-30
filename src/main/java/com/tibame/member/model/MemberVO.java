@@ -1,14 +1,14 @@
 package com.tibame.member.model;
 
 public class MemberVO {
-	private Integer memId;
+	private Integer xxx;
 	private String memName;
 	
 	public Integer getMemId() {
-		return memId;
+		return xxx;
 	}
 	public void setMemId(Integer memId) {
-		this.memId = memId;
+		this.xxx = memId;
 	}
 	public String getMemName() {
 		return memName;
